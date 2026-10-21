@@ -1,6 +1,6 @@
 # Deploy ABFS in containers on GCE VMs
 
-Terraform configuration for deploying ABFS containers to Google Cloud Compute
+Terraform configuration for deploying [ABFS](https://www.github.com/google/abfs) containers to Google Cloud Compute
 Engine VMs running [Container Optimized OS](https://cloud.google.com/container-optimized-os/docs).
 
 This is implemented as multiple Terraform modules with an [example](./examples/simple/).
